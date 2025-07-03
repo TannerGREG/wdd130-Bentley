@@ -2,3 +2,5 @@
 Client website project for Wyatt Bentley
 Hello there
 https://benflannery.github.io/wdd130-Bentley/
+
+TannerBrown (about me page)
